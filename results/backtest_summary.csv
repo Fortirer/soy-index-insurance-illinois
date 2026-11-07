@@ -1,0 +1,10 @@
+coverage,product,n_county_years,loss_events,hit_rate,false_payout_share,payout_loss_corr,payout_to_fair_premium,variance_reduction,cvar5_unhedged,cvar5_hedged
+0.8,area_yield,2317,127,1.0,0.0,1.0,1.2319,0.1955,0.6954,0.7939
+0.8,weather_index,2317,127,0.2126,0.2703,0.4357,0.424,0.0289,0.6954,0.7057
+0.8,weather_index_calibrated,2317,127,0.3701,0.4778,0.4418,0.4432,0.0878,0.6954,0.7194
+0.85,area_yield,2317,204,1.0,0.0,1.0,1.0704,0.2869,0.6954,0.8362
+0.85,weather_index,2317,204,0.3088,0.2222,0.4617,0.4706,0.062,0.6954,0.7149
+0.85,weather_index_calibrated,2317,204,0.4559,0.4114,0.48,0.5163,0.138,0.6954,0.7271
+0.9,area_yield,2317,295,1.0,0.0,1.0,0.9669,0.3961,0.6954,0.8759
+0.9,weather_index,2317,295,0.4,0.3099,0.513,0.556,0.1173,0.6954,0.7256
+0.9,weather_index_calibrated,2317,295,0.4576,0.4351,0.5142,0.5906,0.1949,0.6954,0.7362
